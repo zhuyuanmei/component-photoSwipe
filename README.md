@@ -4,6 +4,7 @@
 组件参数：
 
 $.photoSwipeInit({
+
             // 图片数组数据
             imgArrData: imgArrData,
 
